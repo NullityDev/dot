@@ -1,2 +1,2 @@
-# dot
-It all starts with a simple .
+# ·
+It all starts with a simple ·
